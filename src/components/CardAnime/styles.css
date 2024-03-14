@@ -1,0 +1,28 @@
+.card{display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 224px;
+    margin: 25px;
+    border: 2px solid black;
+}
+.card img{
+    height: 330px;
+}
+.card div p {
+    background-color: #f8de3c;
+    border-bottom: 1px solid black;
+    padding: 3px;
+}
+.card div{
+    text-align: center;
+    width: 220px;
+}
+.card button {
+    color: aliceblue;
+    padding: 4px;
+    padding-inline: 85.30px;
+    background-color:rgb(158, 34, 34) ;
+}
+.card button:hover{
+    background-color:rgb(176, 50, 50) ;
+}

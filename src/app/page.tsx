@@ -1,9 +1,9 @@
 import Image from "next/image";
-import Cardanime from "@/components/CardAnime";
+import Cartaz from "@/components/Cartaz";
 export default function Home() {
   return (
     <main className="flex-auto">
-      <Cardanime title="One Piece" image="/cartaz-onepiece.jpg" link="https://www.youtube.com/watch?v=MCb13lbVGE0"/>
+     <Cartaz/>
     </main>
   );
 }

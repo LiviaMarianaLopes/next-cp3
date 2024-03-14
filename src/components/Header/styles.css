@@ -1,13 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=PT+Sans&family=Playfair+Display:ital@1&family=Roboto:wght@300&family=Shadows+Into+Light&display=swap');
+
 header{
+    padding-inline: 55px;
+    font-family: "Shadows Into Light", cursive;
     display: flex;
     background-color: rgb(158, 34, 34);
     color: aliceblue;
-    justify-content: space-between;
+    justify-content:space-between;
 }
 header p {
     font-size: 30px;
     padding: 30px;
-    margin-right: 400px;
+  
+}
+header div {
+    text-align: center;
+    align-items: center;
+    width:auto;
 }
 header img{
     padding: 5px;

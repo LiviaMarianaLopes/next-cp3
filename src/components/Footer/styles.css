@@ -1,0 +1,11 @@
+footer{
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(51, 49, 49);
+    color: aliceblue;
+}
+footer p{
+    font-size: 15px;
+}

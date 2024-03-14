@@ -1,0 +1,14 @@
+header{
+    display: flex;
+    background-color: rgb(158, 34, 34);
+    color: aliceblue;
+    justify-content: space-between;
+}
+header p {
+    font-size: 30px;
+    padding: 30px;
+    margin-right: 400px;
+}
+header img{
+    padding: 5px;
+}
